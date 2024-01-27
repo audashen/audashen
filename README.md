@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### My name is Grigory Murygin.
+Beginner data analyst. Passionate about finding patterns and dependencies between different measuers by using different analyzing data tools. A devoted learner of new skills and techniques used to bring more value through analyzing data.
+#### Databases:
+SQL
+#### Data analytics:
+Python, Pandas, Numpy, Matplotlib, Seaborn, Plotly, Folium, SciPy
